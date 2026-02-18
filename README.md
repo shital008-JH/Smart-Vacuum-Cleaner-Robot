@@ -30,7 +30,7 @@ It can detect obstacles and move smoothly around the environment while performin
 ---
 
 ##Model Picture:
-<img width="724" height="769" alt="Pic1" src="https://github.com/user-attachments/assets/86eaacf7-e524-40b5-a205-3e9f78875de5" />
+<img width="182" height="193" alt="Pic1" src="https://github.com/user-attachments/assets/86eaacf7-e524-40b5-a205-3e9f78875de5" />
 
 📌 *This project demonstrates embedded system design, robotics automation, and sensor integration.*
 
