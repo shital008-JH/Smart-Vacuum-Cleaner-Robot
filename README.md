@@ -27,6 +27,8 @@ It can detect obstacles and move smoothly around the environment while performin
 - Smart mapping and path planning  
 - Improved cleaning efficiency  
 
+### Note :
+This project was developed as a group collaboration, with responsibilities shared among team members.
 ---
 
 ##Model Picture:
